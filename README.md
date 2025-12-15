@@ -1,4 +1,5 @@
 Project Description:
+
 This project is a full-stack e-commerce web application designed to deliver a seamless shopping experience with robust backend architecture and a modern, responsive frontend.
 
 Key Features:
